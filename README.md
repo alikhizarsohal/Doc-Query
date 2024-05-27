@@ -12,32 +12,12 @@ DocQuery is a document search application developed using OpenAI’s GPT APIs. T
 ## Installation
 1. Clone the repository: `git clone https://github.com/your-username/docquery.git`
 2. Navigate to the project directory: `cd docquery`
-3. Install dependencies for the backend:
-cd backend
-npm install
-
-markdown
-Copy code
-4. Install dependencies for the frontend:
-cd ../frontend
-npm install
-
-markdown
-Copy code
+3. Install dependencies for the backend: `cd backend && npm install`
+4. Install dependencies for the frontend: `cd ../frontend && npm install`
 
 ## Usage
-1. Start the backend server:
-cd ../backend
-npm start
-
-markdown
-Copy code
-2. Start the frontend server:
-cd ../frontend
-npm start
-
-markdown
-Copy code
+1. Start the backend server: `cd ../backend && npm start`
+2. Start the frontend server: `cd ../frontend && npm start`
 3. Access the application in your web browser at `http://localhost:3000`.
 
 ## Contributing
